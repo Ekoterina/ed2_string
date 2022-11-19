@@ -1,5 +1,5 @@
 [package]
-name = "ed2_string2"
+name = "ed2"
 version = "0.1.0"
 edition = "2021"
 
